@@ -1,0 +1,8 @@
+EQIPMENT_IDs = []
+OTHER_IDs = []
+MTF_IDs = []
+SerNums = []
+Correct_OTHER_IDs = []
+Correct_SerNums = []
+Dupes = []
+Remove_or_Keep = []
